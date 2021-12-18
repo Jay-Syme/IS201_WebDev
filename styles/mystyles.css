@@ -1,0 +1,17 @@
+/* Jay Syme 12/17/2021 */
+
+.myTitle{
+    text-decoration: underline;
+    color: lightgray;
+    font-style: italic;
+}
+
+.contactMe{
+    font-size: medium;
+    text-align: right;
+
+}
+
+.number{
+    font-size: small;
+}
